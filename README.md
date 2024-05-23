@@ -1,4 +1,3 @@
-# Python for Applied Data Science and AI
 <h2 align="center">Welcome to Python for Applied Data Science and AI 👨‍💻</h2>
 
 
