@@ -1,1 +1,1 @@
-# python-for-applied-data-science-ai
+# Python for Applied Data Science and AI
